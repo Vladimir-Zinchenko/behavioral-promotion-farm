@@ -1,1 +1,1 @@
-# Behavioral promotion farm
+# Promotion based on behavior farm
